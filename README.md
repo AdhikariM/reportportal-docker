@@ -53,3 +53,4 @@ To send test results here from your test project:
 - View logs: `docker-compose logs [service-name]`
 
 ![alt text](image.png)
+![alt text](image-1.png)
