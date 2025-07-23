@@ -51,3 +51,5 @@ To send test results here from your test project:
 - If login doesn't work, wait a few minutes for all services to start
 - Check service status: `docker-compose ps`
 - View logs: `docker-compose logs [service-name]`
+
+![alt text](image.png)
